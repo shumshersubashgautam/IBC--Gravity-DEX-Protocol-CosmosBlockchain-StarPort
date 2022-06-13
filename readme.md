@@ -1,3 +1,15 @@
+
+Starport & Gravity DEX protocol:
+step1:Create new blockchain with starport in cosmos ecosystem.
+step 2:create a new token with starport.
+Step 3:connect the blockchain with cosmoshub testnet using th relayer
+step 4: create a pool on the Gravity DEX with the new token made.
+step 5: swap token using the pool.
+
+
+
+
+
 # pluto
 **pluto** is a blockchain built using Cosmos SDK and Tendermint and created with [Starport](https://github.com/tendermint/starport).
 
